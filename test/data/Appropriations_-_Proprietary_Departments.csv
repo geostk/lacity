@@ -1,0 +1,812 @@
+Department,Account_Code,Account_Name, Appropriation ,Fiscal_Year
+DWP,0000A,Purchase of land and buildings,$3165100.00,2013
+DWP,2000,"Transportation, lodging and employee mileage reimbursements in connection with construction, operation and maintenance work",$4390200.00,2013
+DWP,2000,Rentals and leases,$5806400.00,2013
+DWP,2000,Contracts - Operation and maintenance work,$7626400.00,2013
+DWP,0000A,Utility services for telecommunications and water,$8359500.00,2013
+DWP,0000A,Energy Efficiency Loans to customers,$9594500.00,2013
+DWP,2000,Postal services,$9600300.00,2013
+DWP,0000A,Refunds of customers' deposits,$11284478.00,2013
+DWP,0000A,Property taxes,$13823400.00,2013
+DWP,0000A,"Adjustments (Accrual, etc.)",$16508222.00,2013
+DWP,0000A,Injuries and damages,$16944900.00,2013
+DWP,2000,Insurance,$30242900.00,2013
+DWP,0000A,"Payments to other utilities for proportionate share of construction, operation and maintenance of jointly-owned facilities ",$83167500.00,2013
+DWP,2000,Professional services,$116020000.00,2013
+DWP,,Health Care Plans,$151816800.00,2013
+DWP,0000A,Reimbursements to Water System for proportional share of intradepartmental facilities and activities,$253778500.00,2013
+DWP,0000A,Outside services and regulatory fees,$256081900.00,2013
+DWP,,Retirement and Death Benefit Insurance Plan,$286827000.00,2013
+DWP,0000A,Unappropriated Balance,$309000000.00,2013
+DWP,2000,"Materials, supplies and equipment",$312060000.00,2013
+DWP,0000A,Bond redemption and interest - Electric Plant Revenue Bonds (Including Debt Restructuring),$422200000.00,2013
+DWP,2000,Contracts - Construction work,$479059900.00,2013
+DWP,1000,Salaries and wages,$729511300.00,2013
+DWP,2000,Purchased energy and fuel for generation,$1298600000.00,2013
+DWP,0000A,Unexpended Balance,,2013
+DWP,0000A,"Adjustments (Accrual, etc.)",$-35949817.00,2013
+DWP,2000,Postal services,$348000.00,2013
+DWP,0000A,Purchase of land and buildings,$771600.00,2013
+DWP,2000,"Transportation, lodging and employee mileage",$1631000.00,2013
+DWP,0000A,Refunds of customers' deposits,$3402776.00,2013
+DWP,2000,Contracts - Operation and  maintenance work,$7838200.00,2013
+DWP,2000,Insurance,$8763500.00,2013
+DWP,0000A,Injuries and damages,$9464900.00,2013
+DWP,0000A,Property taxes,$13124500.00,2013
+DWP,2000,Rentals and leases,$20624300.00,2013
+DWP,0000A,Utility services for electricity and heat,$20667800.00,2013
+DWP,2000,Professional services,$46256800.00,2013
+DWP,,Health Care Plans,$71454000.00,2013
+DWP,0000A,Outside services and regulatory fees,$106474600.00,2013
+DWP,7000,"Materials, supplies and equipment",$119794400.00,2013
+DWP,,Retirement and Death Benefit Insurance Plan,$134978000.00,2013
+DWP,2000,Contracts - Construction work,$154091200.00,2013
+DWP,0000A,Unappropriated Balance,$185000000.00,2013
+DWP,0000A,Bond redemption and interest Water Works Revenue Bonds,$193000000.00,2013
+DWP,2000,Water purchased for resale,$233000000.00,2013
+LACERS,0000A,Return to Reservess,$-73177556.00,2013
+DWP,0000A,Reimbursements to Power System for proportionalshare of intradepartmental facilities and activities,$245217100.00,2013
+DWP,1000,Salaries and wages,$332543300.00,2013
+Harbor,0000A,Debt Repayments,$-70000000.00,2013
+Harbor,0000A,Alloctions,$-9000000.00,2013
+Harbor,2000,533 - Credit Crd Chrges,$200.00,2013
+Harbor,0000A,Interest Expense - Notes,$39560.00,2013
+Harbor,0000A,Equipment Rentl - Non-Mintennce,$44000.00,2013
+Harbor,2000,521 - Domestic Trde Rep.,$85000.00,2013
+Harbor,2000,532 - Locl Trvel,$88500.00,2013
+Harbor,2000,530 - Domestic Trvel,$388969.00,2013
+Harbor,2000,531 - Foreign Trvel,$447750.00,2013
+Harbor,2000,522 - Foreign Trde Rep.,$459000.00,2013
+Harbor,0000A,Equipment Rentl - Mintennce,$478865.00,2013
+Harbor,0000A,"Txes, ssessments, and Fees",$579654.00,2013
+Harbor,0000A,Memberships and Subscriptions,$622794.00,2013
+Harbor,0000A,Interest Expense - Commercil Pper,$1200000.00,2013
+Harbor,0000A,Balance Sheet Transactions,$1252782.00,2013
+Harbor,0000A,Finncil Services,$1579820.00,2013
+Harbor,0000A,Telephone,$1808838.00,2013
+Harbor,,517 - Pid Employee Benefits,$1959694.00,2013
+Harbor,0000A,Interest Expense - Bonds,$2169878.00,2013
+Harbor,0000A,Dt Processing Services,$2639000.00,2013
+Harbor,2000,Advertising and Public Relations,$3070245.00,2013
+Harbor,0000A,Admin. and Oper. Supplies,$3224857.00,2013
+Harbor,7000,541 - Office Equipment Mintennce Services,$3486673.00,2013
+Harbor,0000A,Insurnce,$3683000.00,2013
+Harbor,0000A,Mintennce and Other Supplies,$4410213.00,2013
+Harbor,1000,Overtime General,$4649601.00,2013
+Harbor,0000A,Utilities,$6186000.00,2013
+Harbor,2000,540 - Mintennce Services,$6872296.00,2013
+Harbor,0000A,Clims and Settlements,$8300000.00,2013
+Harbor,2000,599 - Other Operting Expense,$8587050.00,2013
+Harbor,7000,Equipment Purchases,$8611532.00,2013
+Harbor,0000A,Misc. Professionl Services,$20638722.00,2013
+Harbor,0000A,Other Non-Operting Expense,$25195678.00,2013
+Harbor,0000A,Future Commitments,$32016232.00,2013
+Harbor,0000A,City Services,$36149991.00,2013
+Harbor,,Benefits,$39540547.00,2013
+Harbor,0000A,Capitalized and Allocated Expenditures,$46358194.00,2013
+Harbor,1000,Salaries General,$62070779.00,2013
+Harbor,0000A,Restricted Cash,$148196259.00,2013
+Harbor,0000A,Unappropriated Balance/Carried Forward,$260334281.00,2013
+Harbor,0000A,Construction and Capital Improvements,$285705381.00,2013
+Harbor,0000A,Cpitl Construction Svc.,,2013
+Harbor,0000A,Land and Property Acquisition,,2013
+Harbor,0000A,Provision for Bd Debt,,2013
+Harbor,0000A,Deprecition Expense,,2013
+LACERS,2000,Transportation Expense,$0.00,2013
+LACERS,1000,Overtime - General,$60000.00,2013
+LACERS,2000,Printing and Binding,$144000.00,2013
+LACERS,2000,Travel,$150000.00,2013
+LACERS,7000,"Furniture, Office and Tech. Equipment",$334000.00,2013
+LACERS,2000,Contractual Services Investment Management Expense - City,$1997372.00,2013
+LACERS,2000,Office and Admin Expense,$2867560.00,2013
+LACERS,2000,Contractual Services  Administrative Expense,$7615050.00,2013
+LACERS,1000,Salaries - General,$11059000.00,2013
+LACERS,0000A,Retirement Refunds,$11588000.00,2013
+LACERS,2000,Contractual Services Investment Management Expense - NT,$50376676.00,2013
+LACERS,0000A,Retirement Benefits ,$831496000.00,2013
+LAWA,0000A,Capital Lease and Other Non-Operating Exp,$2404000.00,2013
+LAWA,2000,Administrative Services,$4243000.00,2013
+LAWA,2000,Advertising and Public Relations,$4983000.00,2013
+LAWA,,Workers Compensation,$6500000.00,2013
+LAWA,0000A,Total Assets,$13739000.00,2013
+LAWA,2000,Other Operating Expenses,$18497000.00,2013
+LAWA,1000,Salaries - Overtime,$22897000.00,2013
+LAWA,,Health Subsidy,$39858000.00,2013
+LAWA,2000,Utilities,$40282000.00,2013
+LAWA,0000A,Grant Funed Capital Expenditures,$55488000.00,2013
+LAWA,2000,Materials and Supplies,$55524000.00,2013
+LAWA,,Retirement Contributions,$63930000.00,2013
+LAWA,,Reserves for Self Insurance Trust,$100000000.00,2013
+LAWA,0000A,Committed CFC Collections,$160219000.00,2013
+LAWA,,Reserves for Maintenance and Operations,$172694000.00,2013
+LAWA,2000,Contractual Services,$202094000.00,2013
+LAWA,0000A,PFC Funded Capital Expenditures ,$235425000.00,2013
+LAWA,1000,Salaries - Regular,$251730000.00,2013
+LAWA,0000A,Bond Redemption and Interest,$436311000.00,2013
+LAWA,,Revenue Fund Reserves,$542850000.00,2013
+LAWA,0000A,Commintted PFC Collections,$575008000.00,2013
+LAWA,0000A,Revenue Funded Capital Expenditures,$660307000.00,2013
+LAWA,,Other Restricted Funds,$675980000.00,2013
+LAWA,0000A,CFC Funded Expense,,2013
+LAWA,0000A,PFC Funded Capital Expenditures ,,2013
+LAWA,0000A,Unallocated Balance,,2013
+Pensions,0000A,Fund Balance,$-177052268.00,2013
+Pensions,7000,"Furniture, Office and Tech. Equipment",$0.00,2013
+Pensions,1000,Salaries As needed,$0.00,2013
+Pensions,2000,Transportation,$0.00,2013
+Pensions,,Retirement Contributions,$5000.00,2013
+Pensions,2000,Election Expense,$18000.00,2013
+Pensions,,Tuition Reimbursement,$20000.00,2013
+Pensions,,Other Employee Benefits,$35000.00,2013
+Pensions,,Dental Insurance,$55000.00,2013
+Pensions,2000,Printing and Binding,$80200.00,2013
+Pensions,,Medicare Contributions,$120000.00,2013
+Pensions,1000,"Salaries, Overtime",$138000.00,2013
+Pensions,2000,Travel,$171555.00,2013
+Pensions,,Medical Services ,$275000.00,2013
+Pensions,0000A,Unappropriated Balance,$310000.00,2013
+Pensions,2000,Office and Admin Expense,$768940.00,2013
+Pensions,,Health Insurance,$1137500.00,2013
+Pensions,0000A,Health Insurance Reimbursement,$1300000.00,2013
+Pensions,0000A,Minors'/Dependents' Pensions,$1800000.00,2013
+Pensions,0000A,Dental Insurance,$3900000.00,2013
+Pensions,0000A,Refund of Contributions,$4000000.00,2013
+Pensions,2000,Contractual,$4242000.00,2013
+Pensions,0000A,Medicare,$9200000.00,2013
+Pensions,1000,"Salaries, General",$9749958.00,2013
+Pensions,0000A,Health Insurance Subsidy,$88000000.00,2013
+Pensions,0000A,Investment Management Expense,$99522780.00,2013
+Pensions,0000A,Surviving Spouses' Pensions,$109000000.00,2013
+Pensions,0000A,Service Pensions-DROP payout,$109390000.00,2013
+Pensions,0000A,Disability Pensions,$120000000.00,2013
+Pensions,0000A,Service Pensions,$532500000.00,2013
+DWP,0000A,"Adjustments (Accrual, etc.)",$-294772300.00,2014
+DWP,0000A,"Transportation, lodging and employee mileage reimbursements in connection with construction, operation and maintenance work",$7239500.00,2014
+DWP,0000A,Contracts - Operation and maintenance work,$7669700.00,2014
+DWP,0000A,Rentals and leases,$9034300.00,2014
+DWP,0000A,Energy Efficiency Loans to customers,$9594500.00,2014
+DWP,0000A,Utility services for telecommunications and water,$9736300.00,2014
+DWP,0000A,Postal services,$10184300.00,2014
+DWP,0000A,Refunds of customers' deposits,$13280900.00,2014
+DWP,0000A,Property taxes,$15214500.00,2014
+DWP,0000A,Injuries and damages,$21458300.00,2014
+DWP,0000A,Insurance,$31242700.00,2014
+DWP,0000A,Purchase of land and buildings,$54984900.00,2014
+DWP,0000A,"Payments to other utilities for proportionate share of construction, operation and maintenance of jointly-owned facilities ",$81224200.00,2014
+DWP,0000A,Professional services,$117893800.00,2014
+DWP,,Health Care Plans,$157145800.00,2014
+DWP,0000A,Reimbursements to Water System for proportional share of intradepartmental facilities and activities,$267636400.00,2014
+DWP,0000A,Unappropriated Balance,$300000000.00,2014
+DWP,0000A,Outside services and regulatory fees,$304218900.00,2014
+DWP,2000,"Materials, supplies and equipment",$313407000.00,2014
+DWP,,Retirement and Death Benefit Insurance Plan,$321408000.00,2014
+DWP,0000A,Bond redemption and interest - Electric Plant Revenue Bonds (Including Debt Restructuring),$459100000.00,2014
+DWP,0000A,Contracts - Construction work,$582701400.00,2014
+DWP,1000,Salaries and wages,$766307600.00,2014
+DWP,2000,Purchased energy and fuel for generation,$1395600000.00,2014
+DWP,0000A,Unexpended Balance,,2014
+DWP,0000A,Postal services,$348000.00,2014
+DWP,2000,"Transportation, lodging and mileage reimb",$1559000.00,2014
+DWP,0000A,Refunds of customers' deposits,$3853800.00,2014
+DWP,2000,Contracts - Operation and maintenance work,$8879700.00,2014
+DWP,2000,Insurance,$9563000.00,2014
+DWP,0000A,Purchase of land and buildings,$9732600.00,2014
+DWP,0000A,Injuries and damages,$11429300.00,2014
+DWP,0000A,Property taxes,$14420700.00,2014
+DWP,2000,Rentals and leases,$21280900.00,2014
+DWP,0000A,Utility services for electricity and heat,$22531900.00,2014
+DWP,0000A,"Adjustments (Accrual, etc.)",$33646300.00,2014
+DWP,0000A,Professional services,$55522900.00,2014
+DWP,,Health Care Plans,$73961800.00,2014
+DWP,0000A,Outside services and regulatory fees,$114214300.00,2014
+DWP,,Retirement and Death Benefit Insurance Plan,$151251000.00,2014
+DWP,2000,"Materials, supplies and equipment",$153472300.00,2014
+DWP,0000A,Bond redemption and interest Water Works Revenue Bonds,$203000000.00,2014
+DWP,2000,Contracts - Construction work,$221213400.00,2014
+DWP,0000A,Unappropriated Balance,$225600000.00,2014
+DWP,0000A,Reimbursements to Power System for proportional share of intradepartmental facilities and activities,$263229600.00,2014
+DWP,2000,Water purchased for resale,$288000000.00,2014
+DWP,1000,Salaries and wages,$351744400.00,2014
+DWP,0000A,Unexpended Balance,,2014
+Harbor,0000A,Allocations,$-12235019.00,2014
+Harbor,2000,533 - Credit Crd Chrges,$0.00,2014
+Harbor,0000A,545 - Cpitl Construction Svc.,$0.00,2014
+Harbor,0000A,598 - Provision for Bd Debt,$0.00,2014
+Harbor,0000A,820 - Interest Expense - Notes,$0.00,2014
+Harbor,2000,521 - Domestic Trde Rep.,$85000.00,2014
+Harbor,2000,532 - Locl Trvel,$85775.00,2014
+Harbor,0000A,591 - Equipment Rentl - Non-Mintennce,$104740.00,2014
+Harbor,2000,530 - Domestic Trvel,$432727.00,2014
+Harbor,2000,531 - Foreign Trvel,$444650.00,2014
+Harbor,2000,522 - Foreign Trde Rep.,$459000.00,2014
+Harbor,0000A,590 - Equipment Rentl - Mintennce,$493250.00,2014
+Harbor,0000A,831 - Interest Expense - Commercil Pper,$550000.00,2014
+Harbor,0000A,592 - Memberships and Subscriptions,$677094.00,2014
+Harbor,0000A,"597 - Txes, ssessments, and Fees",$684769.00,2014
+Harbor,0000A,594 - Telephone,$1818070.00,2014
+Harbor,0000A,544 - Finncil Services,$1926191.00,2014
+Harbor,,517 - Pid Employee Benefits,$1985878.00,2014
+Harbor,0000A,543 - Dt Processing Services,$2348250.00,2014
+Harbor,0000A,596 - Clims and Settlements,$2350000.00,2014
+Harbor,0000A,551 - dmin. and Oper. Supplies,$2688763.00,2014
+Harbor,7000,541 - Office Equipment Mintennce Services,$2969806.00,2014
+Harbor,2000,Advertising and Public Relations,$3290315.00,2014
+Harbor,0000A,593 - Insurnce,$3680000.00,2014
+Harbor,1000,Overtime General,$4519335.00,2014
+Harbor,0000A,550 - Mintennce and Other Supplies,$4701554.00,2014
+Harbor,2000,540 - Mintennce Services,$6459322.00,2014
+Harbor,0000A,599 - Other Operting Expense,$7790550.00,2014
+Harbor,0000A,890 - Other Non-Operting Expense,$7830221.00,2014
+Harbor,0000A,595 - Utilities,$8121000.00,2014
+Harbor,0000A,830 - Interest Expense - Bonds,$9221109.00,2014
+Harbor,7000,Equipment Purchases,$9817304.00,2014
+Harbor,0000A,542 - Misc. Professionl Services,$21350946.00,2014
+Harbor,0000A,Debt Repayments,$26235000.00,2014
+Harbor,0000A,Future Commitments,$32015000.00,2014
+Harbor,0000A,570 - City Services,$36245805.00,2014
+Harbor,0000A,Capitalized and Allocated Expenditures,$42187328.00,2014
+Harbor,,Benefits,$42733426.00,2014
+Harbor,1000,Salaries General,$62874280.00,2014
+Harbor,0000A,Restricted Cash,$98085765.00,2014
+Harbor,0000A,Unappropriated Balance/Carried Forward,$236173540.00,2014
+Harbor,0000A,Construction and Capital Improvements,$399913430.00,2014
+Harbor,0000A,Balance Sheet Transactions,,2014
+Harbor,0000A,Land and Property Acquisition,,2014
+Harbor,0000A,610 - Deprecition Expense,,2014
+LACERS,0000A,Return to Reservess,$-1818075.00,2014
+LACERS,2000,Transportation Expense,$0.00,2014
+LACERS,1000,Overtime - General,$157973.00,2014
+LACERS,2000,Printing and Binding,$180400.00,2014
+LACERS,2000,Travel,$224815.00,2014
+LACERS,7000,"Furniture, Office and Tech. Equipment",$409000.00,2014
+LACERS,2000,Contractual Services Investment Management Expense - City,$1836106.00,2014
+LACERS,2000,Office and Admin Expense,$2744337.00,2014
+LACERS,2000,Contractual Services  Administrative Expense,$6309957.00,2014
+LACERS,1000,Salaries - General,$11668736.00,2014
+LACERS,0000A,Retirement Refunds,$20020000.00,2014
+LACERS,2000,Contractual Services Investment Management Expense - NT,$54045502.00,2014
+LACERS,0000A,Retirement Benefits ,$840212250.00,2014
+LAWA,0000A,Capital Lease and Other Non-Operating Exp,$-2388000.00,2014
+LAWA,2000,Administrative Services,$4362000.00,2014
+LAWA,2000,Advertising and Public Relations,$5386000.00,2014
+LAWA,,Workers Compensation,$11101000.00,2014
+LAWA,0000A,Total Assets,$13098000.00,2014
+LAWA,2000,Other Operating Expenses,$20276000.00,2014
+LAWA,1000,Salaries - Overtime,$21070000.00,2014
+LAWA,2000,Utilities,$40209000.00,2014
+LAWA,,Health Subsidy,$42202000.00,2014
+LAWA,2000,Materials and Supplies,$52344000.00,2014
+LAWA,0000A,Grant Funed Capital Expenditures,$60837000.00,2014
+LAWA,,Retirement Contributions,$68763000.00,2014
+LAWA,,Reserves for Self Insurance Trust,$100000000.00,2014
+LAWA,,Reserves for Maintenance and Operations,$177970000.00,2014
+LAWA,0000A,Committed CFC Collections,$182453000.00,2014
+LAWA,0000A,PFC Funded Capital Expenditures ,$184000000.00,2014
+LAWA,2000,Contractual Services,$204852000.00,2014
+LAWA,1000,Salaries - Regular,$259864000.00,2014
+LAWA,0000A,Bond Redemption and Interest,$412654000.00,2014
+LAWA,,Other Restricted Funds,$560000000.00,2014
+LAWA,0000A,Revenue Funded Capital Expenditures,$598163000.00,2014
+LAWA,,Revenue Fund Reserves,$659663000.00,2014
+LAWA,0000A,Commintted PFC Collections,$685876000.00,2014
+LAWA,0000A,CFC Funded Expense,,2014
+LAWA,0000A,PFC Funded Capital Expenditures ,,2014
+LAWA,0000A,Unallocated Balance,,2014
+Pensions,0000A,Fund Balance,$-57193042.00,2014
+Pensions,,Retirement Contributions,$5000.00,2014
+Pensions,2000,Transportation,$6000.00,2014
+Pensions,1000,Salaries As needed,$15000.00,2014
+Pensions,2000,Election Expense,$18000.00,2014
+Pensions,,Tuition Reimbursement,$20000.00,2014
+Pensions,,Other Employee Benefits,$35000.00,2014
+Pensions,,Dental Insurance,$55000.00,2014
+Pensions,2000,Printing and Binding,$77000.00,2014
+Pensions,1000,"Salaries, Overtime",$92500.00,2014
+Pensions,2000,Travel,$138650.00,2014
+Pensions,,Medicare Contributions,$150000.00,2014
+Pensions,,Medical Services ,$225000.00,2014
+Pensions,0000A,Unappropriated Balance,$270000.00,2014
+Pensions,7000,"Furniture, Office and Tech. Equipment",$392000.00,2014
+Pensions,2000,Office and Admin Expense,$759481.00,2014
+Pensions,,Health Insurance,$1266700.00,2014
+Pensions,0000A,Health Insurance Reimbursement,$1300000.00,2014
+Pensions,0000A,Minors'/Dependents' Pensions,$2000000.00,2014
+Pensions,0000A,Refund of Contributions,$3500000.00,2014
+Pensions,0000A,Dental Insurance,$3900000.00,2014
+Pensions,2000,Contractual,$4337750.00,2014
+Pensions,0000A,Medicare,$10000000.00,2014
+Pensions,1000,"Salaries, General",$10300000.00,2014
+Pensions,0000A,Investment Management Expense,$87857049.00,2014
+Pensions,0000A,Health Insurance Subsidy,$95000000.00,2014
+Pensions,0000A,Service Pensions-DROP payout,$98245000.00,2014
+Pensions,0000A,Surviving Spouses' Pensions,$115000000.00,2014
+Pensions,0000A,Disability Pensions,$120000000.00,2014
+Pensions,0000A,Service Pensions,$540000000.00,2014
+LACERS,0000A,Return to Reservess,$-39248302.00,2015
+LACERS,2000,Printing and Binding,$150935.00,2015
+LACERS,7000,"Furniture, Office and Tech. Equipment",$198400.00,2015
+LACERS,2000,Travel,$204705.00,2015
+LACERS,1000,Overtime - General,$473962.00,2015
+LACERS,2000,Office and Admin Expense,$6153026.00,2015
+LACERS,2000,Contractual Services  Administrative Expense,$6325227.00,2015
+LACERS,0000A,Retirement Refunds,$9870000.00,2015
+LACERS,1000,Salaries - General,$12909052.00,2015
+LACERS,2000,Contractual Services Investment Management Expense - City,$60546957.00,2015
+LACERS,0000A,Retirement Benefits ,$860850000.00,2015
+LACERS,2000,Transportation Expense,,2015
+LACERS,2000,Contractual Services Investment Management Expense - NT,,2015
+Pensions,0000A,Fund Balance,$-61942665.00,2015
+Pensions,2000,Transportation,$6000.00,2015
+Pensions,,Tuition Reimbursement,$20000.00,2015
+Pensions,2000,Election Expense,$35000.00,2015
+Pensions,,Other Employee Benefits,$35000.00,2015
+Pensions,1000,"Salaries, Overtime",$53400.00,2015
+Pensions,,Dental Insurance,$55000.00,2015
+Pensions,2000,Printing and Binding,$60100.00,2015
+Pensions,1000,Salaries As needed,$70000.00,2015
+Pensions,,Medicare Contributions,$130000.00,2015
+Pensions,2000,Travel,$159255.00,2015
+Pensions,,Medical Services ,$200000.00,2015
+Pensions,7000,"Furniture, Office and Tech. Equipment",$270000.00,2015
+Pensions,0000A,Unappropriated Balance,$353000.00,2015
+Pensions,2000,Office and Admin Expense,$644318.00,2015
+Pensions,,Health Insurance,$1200000.00,2015
+Pensions,0000A,Health Insurance Reimbursement,$1300000.00,2015
+Pensions,0000A,Minors'/Dependents' Pensions,$1800000.00,2015
+Pensions,,Retirement Contributions,$2781000.00,2015
+Pensions,0000A,Refund of Contributions,$3500000.00,2015
+Pensions,0000A,Dental Insurance,$4000000.00,2015
+Pensions,2000,Contractual,$4070086.00,2015
+Pensions,0000A,Medicare,$10500000.00,2015
+Pensions,1000,"Salaries, General",$10500000.00,2015
+Pensions,0000A,Investment Management Expense,$84242390.00,2015
+Pensions,0000A,Health Insurance Subsidy,$102000000.00,2015
+Pensions,0000A,Disability Pensions,$120000000.00,2015
+Pensions,0000A,Surviving Spouses' Pensions,$120000000.00,2015
+Pensions,0000A,Service Pensions-DROP payout,$136000000.00,2015
+Pensions,0000A,Service Pensions,$565000000.00,2015
+DWP,0000A,"Adjustments (Accrual, etc.)",$-225695034.00,2015
+DWP,0000A,Refunds of customers' deposits,$4641834.00,2015
+DWP,0000A,"Transportation, lodging and employee mileage reimbursements in connection with construction, operation and maintenance work",$5244900.00,2015
+DWP,0000A,Postal services,$6651100.00,2015
+DWP,0000A,Rentals and leases,$8625100.00,2015
+DWP,0000A,Utility services for telecommunications and water,$9389800.00,2015
+DWP,0000A,Contracts - Operation and maintenance work,$9555200.00,2015
+DWP,0000A,Energy Efficiency Loans to customers,$9612500.00,2015
+DWP,0000A,Property taxes,$15553000.00,2015
+DWP,0000A,Injuries and damages,$21159600.00,2015
+DWP,0000A,Insurance,$29716000.00,2015
+DWP,0000A,Purchase of land and buildings,$46586200.00,2015
+DWP,0000A,"Payments to other utilities for proportionate share of construction, operation and maintenance of jointly-owned facilities ",$93438400.00,2015
+DWP,0000A,Professional services,$96535100.00,2015
+DWP,,Health Care Plans,$144713800.00,2015
+DWP,0000A,Outside services and regulatory fees,$219911800.00,2015
+DWP,0000A,Reimbursements to Water System for proportional share of intradepartmental facilities and activities,$263487000.00,2015
+DWP,2000,"Materials, supplies and equipment",$294829600.00,2015
+DWP,,Retirement and Death Benefit Insurance Plan,$323639000.00,2015
+DWP,0000A,Bond redemption and interest - Electric Plant Revenue Bonds (Including Debt Restructuring),$436100000.00,2015
+DWP,0000A,Contracts - Construction work,$576294800.00,2015
+DWP,0000A,Unappropriated Balance,$654000000.00,2015
+DWP,1000,Salaries and wages,$707207100.00,2015
+DWP,2000,Purchased energy and fuel for generation,$1484500000.00,2015
+DWP,0000A,Unexpended Balance,,2015
+DWP,0000A,Postal services,$352100.00,2015
+DWP,2000,"Transportation, lodging and mileage reimb",$1492500.00,2015
+DWP,0000A,Refunds of customers' deposits,$5024945.00,2015
+DWP,0000A,Purchase of land and buildings,$6881400.00,2015
+DWP,2000,Insurance,$9136600.00,2015
+DWP,2000,Contracts - Operation and maintenance work,$10166800.00,2015
+DWP,0000A,Injuries and damages,$11445000.00,2015
+DWP,0000A,Property taxes,$14321000.00,2015
+DWP,2000,Rentals and leases,$22007500.00,2015
+DWP,0000A,Utility services for electricity and heat,$22475200.00,2015
+DWP,0000A,"Adjustments (Accrual, etc.)",$52020191.00,2015
+DWP,0000A,Professional services,$64715900.00,2015
+DWP,,Health Care Plans,$68111400.00,2015
+DWP,0000A,Outside services and regulatory fees,$86060600.00,2015
+DWP,2000,"Materials, supplies and equipment",$126801100.00,2015
+DWP,,Retirement and Death Benefit Insurance Plan,$152301000.00,2015
+DWP,0000A,Bond redemption and interest Water Works Revenue Bonds,$217000000.00,2015
+DWP,2000,Contracts - Construction work,$242239100.00,2015
+DWP,0000A,Reimbursements to Power System for proportional share of intradepartmental facilities and activities,$244223800.00,2015
+DWP,0000A,Unappropriated Balance,$320700000.00,2015
+DWP,1000,Salaries and wages,$327745200.00,2015
+DWP,2000,Water purchased for resale,$344000000.00,2015
+DWP,0000A,Unexpended Balance,,2015
+Harbor,0000A,Balance Sheet Transactions,$-25561313.00,2015
+Harbor,0000A,Allocations,$-16700000.00,2015
+Harbor,0000A,Interest Expense - Bonds,$933080.00,2015
+Harbor,2000,Domestic Trvel,$933201.00,2015
+Harbor,,Clean Truck Program,$1365660.00,2015
+Harbor,,Paid Employee Benefits,$1653803.00,2015
+Harbor,0000A,Telephone,$1812763.00,2015
+Harbor,0000A,Claims and Settlements,$2350000.00,2015
+Harbor,,Clean Air Action Plan,$3500000.00,2015
+Harbor,0000A,Insurnce,$3680000.00,2015
+Harbor,2000,Advertising and Public Relations,$3734196.00,2015
+Harbor,1000,Salaries - Overtime,$5578899.00,2015
+Harbor,7000,Equipment Purchases,$6029119.00,2015
+Harbor,0000A,Other Operting Expense,$6343693.00,2015
+Harbor,0000A,Maintenance and Other Supplies,$7533272.00,2015
+Harbor,0000A,Other Non-Operting Expense,$7914274.00,2015
+Harbor,0000A,Utilities,$8476400.00,2015
+Harbor,0000A,Debt Repayments,$29300877.00,2015
+Harbor,0000A,Misc. Professionl Services,$35143500.00,2015
+Harbor,0000A,City Services,$36647682.00,2015
+Harbor,,Employee Benefits,$47361537.00,2015
+Harbor,0000A,Capitalized and Allocated Expenditures,$62950941.00,2015
+Harbor,1000,Salaries - Regulr,$67873559.00,2015
+Harbor,0000A,Restricted Cash,$93000000.00,2015
+Harbor,0000A,Unappropriated Balance/Carried Forward,$266000000.00,2015
+Harbor,0000A,Construction and Capital Improvements,$280963018.00,2015
+Harbor,0000A,Future Commitments,,2015
+Harbor,0000A,Interest Expense - Notes,,2015
+Harbor,0000A,Land and Property Acquisition,,2015
+Harbor,0000A,Admin. and Oper. Supplies,,2015
+Harbor,0000A,Cpitl Construction Svc.,,2015
+Harbor,2000,Credit Crd Chrges,,2015
+Harbor,0000A,Deprecition Expense,,2015
+Harbor,2000,Domestic Trde Rep.,,2015
+Harbor,0000A,Dt Processing Services,,2015
+Harbor,0000A,Financial Services,,2015
+Harbor,2000,Foreign Trde Rep.,,2015
+Harbor,2000,Foreign Trvel,,2015
+Harbor,0000A,Interest Expense - Commercil Pper,,2015
+Harbor,2000,Local Travel,,2015
+Harbor,2000,Maintenance Services,,2015
+Harbor,0000A,Memberships and Subscriptions,,2015
+Harbor,7000,Office Equipment Mintennce Services,,2015
+Harbor,0000A,Provision for Bd Debt,,2015
+Harbor,0000A,"Taxes, ssessments, and Fees",,2015
+LAWA,0000A,Capital Lease and Other Non-Operating Exp,$2404000.00,2015
+LAWA,2000,Administrative Services,$4610000.00,2015
+LAWA,2000,Advertising and Public Relations,$5496000.00,2015
+LAWA,,Workers Compensation,$7929000.00,2015
+LAWA,0000A,Total Assets,$15087000.00,2015
+LAWA,2000,Other Operating Expenses,$19712000.00,2015
+LAWA,1000,Salaries - Overtime,$25437000.00,2015
+LAWA,,Health Subsidy,$41734000.00,2015
+LAWA,2000,Utilities,$43706000.00,2015
+LAWA,2000,Materials and Supplies,$56333000.00,2015
+LAWA,0000A,Grant Funed Capital Expenditures,$60422000.00,2015
+LAWA,,Retirement Contributions,$73401000.00,2015
+LAWA,,Reserves for Self Insurance Trust,$100000000.00,2015
+LAWA,,Reserves for Maintenance and Operations,$187850000.00,2015
+LAWA,0000A,Committed CFC Collections,$215183000.00,2015
+LAWA,2000,Contractual Services,$217417000.00,2015
+LAWA,0000A,PFC Funded Capital Expenditures ,$250000000.00,2015
+LAWA,1000,Salaries - Regular,$264810000.00,2015
+LAWA,0000A,Bond Redemption and Interest,$312191000.00,2015
+LAWA,0000A,Commintted PFC Collections,$488460000.00,2015
+LAWA,,Revenue Fund Reserves,$545976000.00,2015
+LAWA,,Other Restricted Funds,$703885000.00,2015
+LAWA,0000A,Revenue Funded Capital Expenditures,$870578000.00,2015
+LAWA,0000A,CFC Funded Expense,,2015
+LAWA,0000A,PFC Funded Capital Expenditures ,,2015
+LAWA,0000A,Unallocated Balance,,2015
+Pensions,1000,"Salaries, General",$10739000.00,2016
+Pensions,1000,Salaries As needed,$130000.00,2016
+Pensions,1000,"Salaries, Overtime",$75000.00,2016
+Pensions,2000,Printing & Binding,$36000.00,2016
+Pensions,2000,Travel,$166000.00,2016
+Pensions,2000,Contractual,$6214000.00,2016
+Pensions,2000,Transportation,$6000.00,2016
+Pensions,,Medical Services ,$350000.00,2016
+Pensions,,Health Insurance,$1497000.00,2016
+Pensions,,Dental Insurance,$66000.00,2016
+Pensions,,Other Employee Benefits,$36000.00,2016
+Pensions,2000,Election Expense,,2016
+Pensions,2000,Office & Admin Expense,$789000.00,2016
+Pensions,,Tuition Reimbursement,$13000.00,2016
+Pensions,,Retirement Contributions,$3108000.00,2016
+Pensions,,Medicare Contributions,$160000.00,2016
+Pensions,7000,"Furniture, Office & Tech. Equipment",$1113000.00,2016
+Pensions,0000A,Unappropriated Balance,$90000.00,2016
+Pensions,0000A,Service Pensions,$571688000.00,2016
+Pensions,0000A,Service Pensions-DROP payout,$175000000.00,2016
+Pensions,0000A,Disability Pensions,$112347000.00,2016
+Pensions,0000A,Surviving Spouses' Pensions,$117341000.00,2016
+Pensions,0000A,Minors'/Dependents' Pensions,$2243000.00,2016
+Pensions,0000A,Refund of Contributions,$4875000.00,2016
+Pensions,0000A,Health Insurance Subsidy,$101724000.00,2016
+Pensions,0000A,Dental Insurance,$3851000.00,2016
+Pensions,0000A,Medicare,$9805000.00,2016
+Pensions,0000A,Health Insurance Reimbursement,$1558000.00,2016
+Pensions,0000A,Investment Management Expense,$78789000.00,2016
+Pensions,0000A,Fund Balance,$499000.00,2016
+LACERS,1000,Salaries - General,$12136000.00,2016
+LACERS,1000,Overtime - General,$437000.00,2016
+LACERS,2000,Printing & Binding,$107000.00,2016
+LACERS,2000,Travel,$127000.00,2016
+LACERS,2000,Contractual Services  Administrative Expense,$6250000.00,2016
+LACERS,2000,Contractual Services Investment Management Expense - City,$56757000.00,2016
+LACERS,2000,Contractual Services Investment Management Expense - NT,,2016
+LACERS,2000,Transportation Expense,,2016
+LACERS,2000,Office & Admin Expense,$5746000.00,2016
+LACERS,7000,"Furniture, Office & Tech. Equipment",$167000.00,2016
+LACERS,0000A,Retirement Benefits ,$886900000.00,2016
+LACERS,0000A,Retirement Refunds,$11100000.00,2016
+LACERS,0000A,Return to Reserves,$507780000.00,2016
+Harbor,1000,Salaries - Regulr,$66963000.00,2016
+Harbor,1000,Salaries - Overtime,$6064000.00,2016
+Harbor,,Employee Benefits,$44942000.00,2016
+Harbor,,Paid Employee Benefits,$1272000.00,2016
+Harbor,2000,Advertising & Public Reltions,$3238000.00,2016
+Harbor,2000,Domestic Trde Rep.,,2016
+Harbor,2000,Foreign Trde Rep.,,2016
+Harbor,2000,Domestic Trvel,$989000.00,2016
+Harbor,2000,Foreign Trvel,,2016
+Harbor,2000,Local Travel,,2016
+Harbor,2000,Credit Crd Chrges,,2016
+Harbor,2000,Maintenance Services,,2016
+Harbor,7000,Office Equipment Mintennce Services,,2016
+Harbor,0000A,Misc. Professionl Services,$38343000.00,2016
+Harbor,0000A,Dt Processing Services,,2016
+Harbor,0000A,Financial Services,,2016
+Harbor,0000A,Cpitl Construction Svc.,,2016
+Harbor,0000A,Maintenance & Other Supplies,$7465000.00,2016
+Harbor,0000A,Admin. & Oper. Supplies,,2016
+Harbor,0000A,City Services,$41782000.00,2016
+Harbor,0000A,Allocations,$-16313000.00,2016
+Harbor,,Clean Air Action Plan,$4087000.00,2016
+Harbor,,Clean Truck Program,,2016
+Harbor,0000A,Memberships & Subscriptions,,2016
+Harbor,0000A,Insurance,$3093000.00,2016
+Harbor,0000A,Telephone,$1842000.00,2016
+Harbor,0000A,Utilities,$16397000.00,2016
+Harbor,0000A,Claims & Settlements,$2952000.00,2016
+Harbor,0000A,"Taxes, ssessments, & Fees",,2016
+Harbor,0000A,Provision for Bd Debt,,2016
+Harbor,0000A,Other Operting Expense,$9385000.00,2016
+Harbor,0000A,Deprecition Expense,,2016
+Harbor,0000A,Interest Expense - Notes,,2016
+Harbor,0000A,Interest Expense - Bonds,$1196000.00,2016
+Harbor,0000A,Interest Expense - Commercil Pper,,2016
+Harbor,0000A,Other Non-Operting Expense,$6146000.00,2016
+Harbor,0000A,Capitalized & Allocated Expenditures,$59905000.00,2016
+Harbor,0000A,Land and Property Acquisition,,2016
+Harbor,7000,Equipment Purchases,$4240000.00,2016
+Harbor,0000A,Construction and Capital Improvements,$176470000.00,2016
+Harbor,0000A,Debt Repayments,$86840000.00,2016
+Harbor,0000A,Restricted Cash,$126401000.00,2016
+Harbor,0000A,Unappropriated Balance/Carried Forward,$432681000.00,2016
+Harbor,0000A,Balance Sheet Transactions,,2016
+Harbor,0000A,Future Commitments,,2016
+LAWA,1000,Salaries - Regular,$251628000.00,2016
+LAWA,1000,Salaries - Overtime,$41895000.00,2016
+LAWA,,Retirement Contributions,$75566000.00,2016
+LAWA,,Health Subsidy,$42510000.00,2016
+LAWA,,Workers Compensation,$8366000.00,2016
+LAWA,2000,Contractual Services,$199753000.00,2016
+LAWA,2000,Administrative Services,$3363000.00,2016
+LAWA,2000,Materials & Supplies,$53536000.00,2016
+LAWA,2000,Utilities,$46779000.00,2016
+LAWA,2000,Advertising & Public Relations,$4897000.00,2016
+LAWA,2000,Other Operating Expenses,$14303000.00,2016
+LAWA,0000A,Total Assets,$10000000.00,2016
+LAWA,0000A,CFC Funded Expense,,2016
+LAWA,0000A,PFC Funded Expense,,2016
+LAWA,0000A,PFC Funded Capital Expenditures ,$135000000.00,2016
+LAWA,0000A,Grant Funed Capital Expenditures,$46200000.00,2016
+LAWA,0000A,Revenue Funded Capital Expenditures,$730443000.00,2016
+LAWA,0000A,Capital Lease & Other Non-Operating Exp,,2016
+LAWA,0000A,Bond Redemption and Interest,$309506000.00,2016
+LAWA,0000A,Committed CFC Collections,$251780000.00,2016
+LAWA,0000A,Commintted PFC Collections,$448634000.00,2016
+LAWA,0000A,Unallocated Balance,,2016
+LAWA,,Reserve for Maintenance and Operations,$192800000.00,2016
+LAWA,,Reserve for Self Insurance Trust,$100000000.00,2016
+LAWA,,Other Restricted Funds,$963579000.00,2016
+LAWA,,Revenue Fund Reserve,$698583000.00,2016
+DWP,1000,Salaries and wages,$338080000.00,2016
+DWP,2000,"Materials, supplies and equipment",$159318000.00,2016
+DWP,2000,Water purchased for resale,$245000000.00,2016
+DWP,2000,Contracts - Construction work,$347641000.00,2016
+DWP,2000,Contracts - Operation and maintenance work,$20482000.00,2016
+DWP,2000,Rentals and leases,$25165000.00,2016
+DWP,0000A,Outside services and regulatory fees,$117449000.00,2016
+DWP,0000A,Purchase of land and buildings,$7145000.00,2016
+DWP,0000A,Property taxes,$16412000.00,2016
+DWP,0000A,Utility services for electricity and heat,$21015000.00,2016
+DWP,0000A,Injuries and damages,$11452000.00,2016
+DWP,0000A,Postal services,$47000.00,2016
+DWP,0000A,Professional services,$77198000.00,2016
+DWP,2000,"Transportation, lodging and mileage reimb",$1617000.00,2016
+DWP,2000,Insurance,$9581000.00,2016
+DWP,0000A,Refunds of customers' deposits,$6492000.00,2016
+DWP,0000A,Reimbursements to Power System for proportional share of intradepartmental facilities and activities,$325805000.00,2016
+DWP,0000A,Bond redemption and interest Water Works Revenue Bonds,$263000000.00,2016
+DWP,,Health Care Plans,$84059000.00,2016
+DWP,,Retirement and Death Benefit Insurance Plan,$146834000.00,2016
+DWP,0000A," Adjustments (Accrual, etc.)",$113296000.00,2016
+DWP,0000A,Unexpended Balance,,2016
+DWP,0000A, Unappropriated Balance,$296200000.00,2016
+DWP,1000,Salaries and wages,$799075000.00,2016
+DWP,2000,"Materials, supplies and equipment",$319753000.00,2016
+DWP,2000,Purchased energy and fuel for generation,$1510800000.00,2016
+DWP,0000A,Contracts - Construction work,$366625000.00,2016
+DWP,0000A,Contracts - Operation and maintenance work,$5540000.00,2016
+DWP,0000A,Rentals and leases,$8432000.00,2016
+DWP,0000A,"Payments to other utilities for proportionate share of construction, operation and maintenance of jointly-owned facilities ",$107030000.00,2016
+DWP,0000A,Outside services and regulatory fees,$298244000.00,2016
+DWP,0000A,Purchase of land and buildings,$9079000.00,2016
+DWP,0000A,Property taxes,$17428000.00,2016
+DWP,0000A,Utility services for telecommunications and water,$9868000.00,2016
+DWP,0000A,Injuries and damages,$20111000.00,2016
+DWP,0000A,Postal services,$7553000.00,2016
+DWP,0000A,Professional services,$104377000.00,2016
+DWP,0000A,"Transportation, lodging and employee mileage reimbursements in connection with construction, operation and maintenance work",$5383000.00,2016
+DWP,0000A,Insurance,$37254000.00,2016
+DWP,0000A,Refunds of customers' deposits,$3107000.00,2016
+DWP,0000A,Energy Efficiency Loans to customers,$9617000.00,2016
+DWP,0000A,Reimbursements to Water System for proportional share of intradepartmental facilities and activities,$267757000.00,2016
+DWP,0000A,Bond redemption and interest - Electric Plant Revenue Bonds (Including Debt Restructuring),$473300000.00,2016
+DWP,, Health Care Plans,$178604000.00,2016
+DWP,,Retirement and Death Benefit Insurance Plan,$312022000.00,2016
+DWP,0000A,"Adjustments (Accrual, etc.)",$-95842000.00,2016
+DWP,0000A,Unexpended Balance,$695000000.00,2016
+DWP,0000A,Unappropriated Balance,,2016
+Harbor,,Accrual Adjustments,$50000.00,2016
+Pensions,1000,"Salaries, General",$11800000.00,2017
+Pensions,1000,Salaries As needed,$107000.00,2017
+Pensions,1000,"Salaries, Overtime",$69715.00,2017
+Pensions,2000,Printing & Binding,$36654.00,2017
+Pensions,2000,Travel,$159443.00,2017
+Pensions,2000,Contractual,$4880150.00,2017
+Pensions,2000,Transportation,$6000.00,2017
+Pensions,,Medical Services ,$330000.00,2017
+Pensions,,Health Insurance,$1300000.00,2017
+Pensions,,Dental Insurance,$55000.00,2017
+Pensions,,Other Employee Benefits,$40000.00,2017
+Pensions,2000,Election Expense,$25000.00,2017
+Pensions,2000,Office & Admin Expense,$698590.00,2017
+Pensions,,Tuition Reimbursement,$20000.00,2017
+Pensions,,Retirement Contributions,$3309000.00,2017
+Pensions,,Medicare Contributions,$173000.00,2017
+Pensions,7000,"Furniture, Office & Tech. Equipment",$60000.00,2017
+Pensions,0000A,Unappropriated Balance,$213000.00,2017
+Pensions,0000A,Service Pensions,$590000000.00,2017
+Pensions,0000A,Service Pensions-DROP payout,$105000000.00,2017
+Pensions,0000A,Disability Pensions,$120000000.00,2017
+Pensions,0000A,Surviving Spouses' Pensions,$121000000.00,2017
+Pensions,0000A,Minors'/Dependents' Pensions,$2500000.00,2017
+Pensions,0000A,Refund of Contributions,$3500000.00,2017
+Pensions,0000A,Health Insurance Subsidy,$113000000.00,2017
+Pensions,0000A,Dental Insurance,$4100000.00,2017
+Pensions,0000A,Medicare,$11500000.00,2017
+Pensions,0000A,Health Insurance Reimbursement,$1300000.00,2017
+Pensions,0000A,Investment Management Expense,$91152419.00,2017
+Pensions,0000A,Fund Balance,$-96726107.00,2017
+LACERS,1000,Salaries - General,$13672392.00,2017
+LACERS,1000,Overtime - General,$467880.00,2017
+LACERS,2000,Printing & Binding,$170000.00,2017
+LACERS,2000,Travel,$158560.00,2017
+LACERS,2000,Contractual Services  Administrative Expense,$6549613.00,2017
+LACERS,2000,Contractual Services Investment Management Expense - City,$61342188.00,2017
+LACERS,2000,Contractual Services Investment Management Expense - NT,,2017
+LACERS,2000,Transportation Expense,,2017
+LACERS,2000,Office & Admin Expense,$6316115.00,2017
+LACERS,7000,"Furniture, Office & Tech. Equipment",$280600.00,2017
+LACERS,0000A,Retirement Benefits ,$933727000.00,2017
+LACERS,0000A,Retirement Refunds,$12210000.00,2017
+LACERS,0000A,Return to Reserves,$76498097.00,2017
+Harbor,1000,Salaries - Regulr,$73889082.00,2017
+Harbor,1000,Salaries - Overtime,$5236883.00,2017
+Harbor,,Employee Benefits,$53444882.00,2017
+Harbor,,Paid Employee Benefits,$1261219.00,2017
+Harbor,2000,Advertising & Public Reltions,$3219031.00,2017
+Harbor,2000,Domestic Trde Rep.,,2017
+Harbor,2000,Foreign Trde Rep.,,2017
+Harbor,2000,Domestic Trvel,$916090.00,2017
+Harbor,2000,Foreign Trvel,,2017
+Harbor,2000,Local Travel,,2017
+Harbor,2000,Credit Crd Chrges,,2017
+Harbor,2000,Maintenance Services,,2017
+Harbor,7000,Office Equipment Mintennce Services,,2017
+Harbor,0000A,Misc. Professionl Services,$36114943.00,2017
+Harbor,0000A,Dt Processing Services,,2017
+Harbor,0000A,Financial Services,,2017
+Harbor,0000A,Cpitl Construction Svc.,,2017
+Harbor,0000A,Maintenance & Other Supplies,$7269630.00,2017
+Harbor,0000A,Admin. & Oper. Supplies,,2017
+Harbor,0000A,City Services,$42444639.00,2017
+Harbor,0000A,Allocations,$-13697381.00,2017
+Harbor,,Clean Air Action Plan,$3694000.00,2017
+Harbor,,Clean Truck Program,,2017
+Harbor,0000A,Memberships & Subscriptions,,2017
+Harbor,0000A,Insurance,$3262000.00,2017
+Harbor,0000A,Telephone,$1815010.00,2017
+Harbor,0000A,Utilities,$19057879.00,2017
+Harbor,0000A,Claims & Settlements,$2105000.00,2017
+Harbor,0000A,"Taxes, ssessments, & Fees",,2017
+Harbor,0000A,Provision for Bd Debt,,2017
+Harbor,0000A,Other Operting Expense,$9008857.00,2017
+Harbor,0000A,Deprecition Expense,,2017
+Harbor,0000A,Interest Expense - Notes,,2017
+Harbor,0000A,Interest Expense - Bonds,$1015857.00,2017
+Harbor,0000A,Interest Expense - Commercil Pper,,2017
+Harbor,0000A,Other Non-Operting Expense,$12985000.00,2017
+Harbor,0000A,Capitalized & Allocated Expenditures,$58574374.00,2017
+Harbor,0000A,Land and Property Acquisition,,2017
+Harbor,7000,Equipment Purchases,$5596268.00,2017
+Harbor,0000A,Construction and Capital Improvements,$146091066.00,2017
+Harbor,0000A,Debt Repayments,$160940000.00,2017
+Harbor,0000A,Restricted Cash,$97300000.00,2017
+Harbor,0000A,Unappropriated Balance/Carried Forward,$425000000.00,2017
+Harbor,0000A,Balance Sheet Transactions,,2017
+Harbor,0000A,Future Commitments,,2017
+LAWA,1000,Salaries - Regular,$286684000.00,2017
+LAWA,1000,Salaries - Overtime,$26342000.00,2017
+LAWA,,Retirement Contributions,$80627000.00,2017
+LAWA,,Health Subsidy,$50310000.00,2017
+LAWA,,Workers Compensation,$8956000.00,2017
+LAWA,2000,Contractual Services,$244754000.00,2017
+LAWA,2000,Administrative Services,$5255100.00,2017
+LAWA,2000,Materials & Supplies,$54258900.00,2017
+LAWA,2000,Utilities,$52847000.00,2017
+LAWA,2000,Advertising & Public Relations,$4407000.00,2017
+LAWA,2000,Other Operating Expenses,$21169000.00,2017
+LAWA,0000A,Total Assets,$11694000.00,2017
+LAWA,0000A,CFC Funded Expense,,2017
+LAWA,0000A,PFC Funded Expense,,2017
+LAWA,0000A,PFC Funded Capital Expenditures ,,2017
+LAWA,0000A,Grant Funed Capital Expenditures,$121469000.00,2017
+LAWA,0000A,Revenue Funded Capital Expenditures,$1239809000.00,2017
+LAWA,0000A,Capital Lease & Other Non-Operating Exp,,2017
+LAWA,0000A,Bond Redemption and Interest,$367650000.00,2017
+LAWA,0000A,Committed CFC Collections,$287669000.00,2017
+LAWA,0000A,Commintted PFC Collections,$485103000.00,2017
+LAWA,0000A,Unallocated Balance,,2017
+LAWA,,Reserve for Maintenance and Operations,$202772000.00,2017
+LAWA,,Reserve for Self Insurance Trust,$100000000.00,2017
+LAWA,,Other Restricted Funds,$814770000.00,2017
+LAWA,,Revenue Fund Reserve,$715964000.00,2017
+DWP,1000,Salaries and wages,$362270200.00,2017
+DWP,2000,"Materials, supplies and equipment",$189175600.00,2017
+DWP,2000,Water purchased for resale,$155000000.00,2017
+Harbor,,Accrual Adjustments,$-1805516.00,2017
+DWP,2000,Contracts - Construction work,$412534100.00,2017
+DWP,2000,Contracts - Operation and maintenance work,$28047800.00,2017
+DWP,2000,Rentals and leases,$27096000.00,2017
+DWP,0000A,Outside services and regulatory fees,$107811800.00,2017
+DWP,0000A,Purchase of land and buildings,$1786200.00,2017
+DWP,0000A,Property taxes,$16500000.00,2017
+DWP,0000A,Utility services for electricity and heat,$21626700.00,2017
+DWP,0000A,Injuries and damages,$11633400.00,2017
+DWP,0000A,Postal services,$47400.00,2017
+DWP,0000A,Professional services,$98396300.00,2017
+DWP,2000,"Transportation, lodging and mileage reimb",$1712300.00,2017
+DWP,2000,Insurance,$10225100.00,2017
+DWP,0000A,Refunds of customers' deposits,$6641277.00,2017
+DWP,0000A,Reimbursements to Power System for proportional share of intradepartmental facilities and activities,$336469200.00,2017
+DWP,0000A,Bond redemption and interest Water Works Revenue Bonds,$302000000.00,2017
+DWP,,Health Care Plans,$95056600.00,2017
+DWP,,Retirement and Death Benefit Insurance Plan,$150832000.00,2017
+DWP,0000A," Adjustments (Accrual, etc.)",$71697985.00,2017
+DWP,0000A,Unexpended Balance,,2017
+DWP,0000A, Unappropriated Balance,$282100000.00,2017
+DWP,1000,Salaries and wages,$864342300.00,2017
+DWP,2000,"Materials, supplies and equipment",$304828900.00,2017
+DWP,2000,Purchased energy and fuel for generation,$1493400000.00,2017
+DWP,0000A,Contracts - Construction work,$344601700.00,2017
+DWP,0000A,Contracts - Operation and maintenance work,$9018600.00,2017
+DWP,0000A,Rentals and leases,$11646800.00,2017
+DWP,0000A,"Payments to other utilities for proportionate share of construction, operation and maintenance of jointly-owned facilities ",$59952100.00,2017
+DWP,0000A,Outside services and regulatory fees,$329320100.00,2017
+DWP,0000A,Purchase of land and buildings,$5483900.00,2017
+DWP,0000A,Property taxes,$17500000.00,2017
+DWP,0000A,Utility services for telecommunications and water,$9668200.00,2017
+DWP,0000A,Injuries and damages,$20564800.00,2017
+DWP,0000A,Postal services,$10195100.00,2017
+DWP,0000A,Professional services,$158848300.00,2017
+DWP,0000A,"Transportation, lodging and employee mileage reimbursements in connection with construction, operation and maintenance work",$6049600.00,2017
+DWP,0000A,Insurance,$46230100.00,2017
+DWP,0000A,Refunds of customers' deposits,$3178339.00,2017
+DWP,0000A,Energy Efficiency Loans to customers,$9729500.00,2017
+DWP,0000A,Reimbursements to Water System for proportional share of intradepartmental facilities and activities,$325248100.00,2017
+DWP,0000A,Bond redemption and interest - Electric Plant Revenue Bonds (Including Debt Restructuring),$499000000.00,2017
+DWP,, Health Care Plans,$201979900.00,2017
+DWP,,Retirement and Death Benefit Insurance Plan,$320517000.00,2017
+DWP,0000A,"Adjustments (Accrual, etc.)",$-91823939.00,2017
+DWP,0000A,Unexpended Balance,,2017
+DWP,0000A,Unappropriated Balance,$677000000.00,2017
